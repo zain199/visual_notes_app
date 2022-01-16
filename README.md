@@ -1,16 +1,15 @@
-# visual_notes_app2
+# visual_notes_app
 
-A new Flutter application.
-
+### App managing manufacturing by capture the item and add some note of it that
+### present its status created with flutter bloc – hexcolor - conditional_builder –
+### toast - image_picker - device_preview - focused_menu - responsive_framework
+### – connectivity - cloud_firestore - firebase_storage – bloc pattern
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+APP VIDEO 
+https://youtu.be/ji6rWF3pvKw
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/36861828/149680530-8af28758-6005-4345-8284-4e2eb916f910.mp4
+
